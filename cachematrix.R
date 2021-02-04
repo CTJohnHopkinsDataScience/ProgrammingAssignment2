@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 # create a matrix who's inverse can be cached 
 makeCacheMatrix <- function(x = matrix()) {
     ## Initialize the inverse property
